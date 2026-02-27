@@ -1,14 +1,12 @@
 # https://facultyjobtools.com - Full LLM Training Data
 
-Generated on: 2026-02-10T01:05:48.964Z
-Total pages: 25
+Generated on: 2026-02-27T19:53:13.198Z
+Total pages: 26
 This file contains complete article content for deep AI indexing.
 
 ---
 
-## Page 1: 
-      Dr. Dani Babb | Official Faculty Job Tools & Career Services
-
+## Page 1: Dr. Dani Babb | Official Faculty Job Tools & Career Services
 URL: https://facultyjobtools.com
 Description: Looking for professor jobs? Dr. Dani Babb, PhD, offers expert CV/resume services, LinkedIn optimization, and job leads—partner with the first-in-market faculty career specialist for proven results.
 
@@ -100,9 +98,279 @@ Founder & Lead Strategist, Faculty Job Tools
 
 ---
 
-## Page 2: 
-      CVs Done Right: The Original Dr. Dani Babb’s 2025 DIY Faculty CV Tips
- – Faculty Job Tools
+## Page 2: Faculty Aren’t Leaving Higher Ed—They’re Leaving You – Faculty Job Tools
+URL: https://facultyjobtools.com/blogs/news/faculty-aren-t-leaving-higher-ed-they-re-leaving-you
+Date: 2026-02-24
+Description: Is your institution driving faculty away? Dr. Dani Babb breaks down the real reasons faculty are leaving—and the concrete steps university leaders can take now.
+
+(A Hard Look at What Institutions Can Fix Right Now)
+
+_By Dani Babb, PhD \| Founder, FacultyJobTools and [Babb Education](https://babbeducation.com/ "Babb Education")_
+
+For more than 25 years, I've helped faculty find online teaching roles — long before "remote work" was a buzzword and well before institutions realized how much adjunct labor keeps their classrooms running. Through [Faculty Job Tools](https://facultyjobtools.com/ "Faculty Job Tools"), I've witnessed something that has grown impossible to ignore:
+
+Faculty are leaving their institutions — or preparing to — and they're telling me exactly why.
+
+Many university leaders tell me that they don't have a retention problem. For some, that's true. They've mastered what I'm writing about in this article. For others, it's only because your faculty haven't found a better paying, better work life balance job yet, plan to retire soon anyway or the job market is rough. But we should all want to do better for our employees.
+
+This article is intentionally raw. It's based on more conversations than I can count, career reviews, application sessions, and real-world feedback collected over the past two years. It's going to upset many of you. And yes, it's current. What faculty are saying is consistent, credible, and often heartbreaking.
+
+And the truth is simple:
+
+Most of these issues can be fixed — if institutions are willing to listen.
+
+Below are the top reasons faculty report actively seeking new roles, along with concrete, research-informed steps institutions can take if they want to keep their best educators.
+
+## 1\. Synchronous Overload Is Destroying Work–Life Balance
+
+This is the #1 complaint I hear now — by a mile.
+
+Institutions keep increasing synchronous expectations in online programs, and adjuncts are drowning in nighttime sessions that 80% of students never attend or wouldn't if it wasn't mandatory. Faculty tell me repeatedly:
+
+"I signed up to teach online — not host live webinars five nights a week."
+
+### What institutions can do:
+
+- Hold synchronous sessions during faculty work hours, not evenings.
+- Make sessions optional and rely on recordings — students watch them.
+- Shorten them to 30–60 minutes max.
+- Reduce frequency to two or three touchpoints per term — not weekly events.
+
+Schools implementing this through my team at [Babb Education](https://babbeducation.com/ "Babb Education") consistently see no decline in retention, because synchronous meetings were never the retention lever institutions assumed — they were a marketing tool.
+
+If you want to stop faculty attrition, start here. Yes, your students are telling you that they want the sessions - But if you took them away, would your retention change? Try it and see. Many university leaders have told me over the last 10 years that this is more about marketing and less about actual touch points with learners.
+
+## 2\. Textbook & Lab Integration Chaos Is Burning Out Adjuncts
+
+Let's call it what it is: integration drama.
+
+Every term, adjuncts lose hours troubleshooting:
+
+- Pearson
+- McGraw-Hill Connect
+- MyLab / Mastering
+- Cengage / WebAssign
+- WileyPlus
+- SIMnet
+- MindTap
+- Labster
+- uCertify
+
+…and on it goes.
+
+They aren't being paid for this — and adjuncts feel the pain the most.
+
+Faculty spend the first weeks fixing logins instead of teaching. Students get frustrated. Integrations fail. Representatives change every term. Faculty get poor reviews for the poorly designed systems or instructional designers that didn't help integrate the lab for the faculty. And academic engagement drops because much of the course has been offloaded to a publisher.
+
+### There is one exception:
+
+Lab simulations that teach truly hands-on skills (coding, healthcare, cybersecurity) can be effective when used intentionally.
+
+Everywhere else without hands-on experience needed?
+
+Faculty see these integrations as time-sinks that benefit institutions — not instructors or learners.
+
+## 3\. Inconsistent Workloads & "Who Even Is My Boss?" Syndrome
+
+Another major reason faculty are leaving:
+
+no reliability, no predictability, and no one to talk to.
+
+Adjuncts tell me weekly:
+
+"I haven't heard from my chair in months."
+
+"I don't even know who replaced my supervisor."
+
+"I'm fully qualified to teach three courses — but I'm only assigned one. Every other semester."
+
+"I applied for a job at my own institution because they didn't realize I already work here." (Yep! Heard it again just this week)
+
+And yes — institutions often post jobs for courses their own adjuncts can already teach.
+
+If you want to improve faculty morale, fix this.
+
+### Institutions should:
+
+- Communicate teaching assignments early.
+- Maintain clear, accurate faculty rosters.
+- Audit internal talent before external hiring.
+- Offer consistent course loads to high-performing adjuncts.
+
+It's embarrassing how often institutions lose great adjuncts simply because their name "fell off a spreadsheet." Faculty wonder why they were ghosted. MANY say they want to leave their profession entirely because of this. Others tell me that they are truly traumatized and question their worth.
+
+Sometimes this happens after being at an institution for 10 or more years. Can we imagine any other profession where this would occur?
+
+## 4\. Administrative Burden Is Crippling Teaching Time
+
+This is a rising frustration:
+
+Adjuncts are being handed responsibilities far outside teaching.
+
+Faculty are now expected to:
+
+- Track and chase attendance
+- Conduct all early-alert outreach
+- Replace advising functions
+- Manage communication workflows
+- Troubleshoot the LMS
+- Provide tech support for students
+- Navigate outdated policy pages
+
+Why?
+
+Because institutions are reducing support roles — and shifting work to faculty.
+
+Faculty want to teach.
+
+They do not want to become the help desk or instructional design team. You need them to teach!
+
+If you want to stop losing instructors, look closely at what you're requiring them to do outside the classroom.
+
+## 5\. Pay Is Stagnant — and Faculty Notice
+
+Faculty are painfully aware that:
+
+- Their pay has not increased in years
+- Cost of living has skyrocketed
+- Workload has grown
+- Expectations have doubled
+- Professional development is unpaid
+- Training is unpaid and constantly growing
+- Attending meetings is mandatory, frequent and uncompensated
+
+If institutions value faculty, they must — at minimum — offer:
+
+- Annual cost-of-living adjustments
+- Fair pay for additional responsibilities
+- Compensation for mandatory PD and meetings
+
+Faculty are the lifeblood of the institution.
+
+If compensation lags far behind expectations, they leave.
+
+And they often leave quietly.
+
+## 6\. Poor Course Design Is Driving Faculty Away Fast
+
+My work through [Babb Education](https://babbeducation.com/ "Babb Education") has made this point impossible to ignore:
+
+Bad course design is one of the top reasons faculty resign.
+
+Faculty spend hours each term fixing:
+
+- Broken links
+- Misaligned objectives
+- Conflicting due dates
+- Confusing assignment instructions
+- Unclear navigation
+- LMS clutter
+- Outdated content
+
+Some faculty stop enforcing deadlines because they feel guilty holding students accountable to a poorly designed shell. And no, they're not always telling you that.
+
+### Institutions can fix this immediately:
+
+- Use one universal due date: Example: Sundays at 11:59 PM ET for assignments, Tuesdays at 11:59 PM ET for discussions.
+- Remove dates from the LMS (put them in the syllabus only). Keep days in the LMS
+- Clean up navigation
+- Align outcomes with assessments
+- Have the ID team test every link before term start
+- Eliminate duplicate instructions across pages
+
+Clean design helps students —
+
+but it liberates faculty.
+
+## 7\. "Meeting Fatigue" Has Hit a Breaking Point
+
+Faculty are overwhelmed with endless:
+
+- Zoom meetings
+- Teams meetings
+- WebEx meetings
+- Big Blue Button meetings
+- Mandatory check-ins
+- Virtual coffee chats
+
+Faculty repeatedly tell me:
+
+"I'm not burned out from teaching. I'm burned out from meetings about teaching."
+
+If it can be an email, let it be an email.
+
+Adjuncts especially resent unpaid mandatory meetings — and many tell me they explicitly avoid applying to schools known for heavy meeting culture.
+
+## The Big Picture (And a Warning)
+
+These issues aren't small.
+
+They aren't occasional.
+
+They aren't exaggerated.
+
+They are daily realities for faculty across online higher education, and students feel that their professors are checked out. They aren't checked out, they're just overwhelmed by non-academic things.
+
+And if institutions continue adopting practices that:
+
+- increase burnout
+- decrease flexibility
+- reduce autonomy
+- maintain stagnant pay
+- overload faculty with admin work
+- maintain poorly designed shells
+
+…then yes — they will lose great instructors.
+
+My colleague and I have been presenting this data all year through peer reviewed work and we will continue next year. Institutions who ignore it will see the consequences sooner than they think.
+
+## Final Thought (And Hope)
+
+The good news?
+
+Every issue above can be fixed — often with minimal cost.
+
+Faculty aren't asking for the world.
+
+They want to teach.
+
+They want stability.
+
+They want clarity.
+
+They want fair compensation.
+
+And they want to work for institutions that respect both their time and their expertise.
+
+At [Faculty Job Tools](https://facultyjobtools.com/ "Faculty Job Tools"), we help faculty find institutions that value them.
+
+At [Babb Education](https://babbeducation.com/ "Babb Education"), we help universities design courses and systems that stop burning faculty out.
+
+If your institution is adopting practices that contribute to the burnout above — it may be time to reconsider.
+
+Because the institutions that fix these problems first will keep the strongest faculty.
+
+And those that don't… won't.
+
+[Contact Us](https://facultyjobtools.com/pages/contact)
+
+* * *
+
+## About the author...
+
+Through Faculty Job Tools, Dr. Dani Babb offers / [Academic Resume (CV) Services](https://facultyjobtools.com/products/academic-cover-letter "Academic Cover Letter") / [Custom Job Search](https://facultyjobtools.com/products/custom-job-search "Custom Job Search") / [LinkedIn Marketing Services](https://facultyjobtools.com/products/linkedin-marketing-services "LinkedIn Marketing Services") / [Online Teaching Email Leads](https://facultyjobtools.com/products/online-teaching-email-leads "Online Teaching Email Leads") / [Teaching Application Completion Service](https://facultyjobtools.com/products/teaching-application-completion-service "Teaching Application Completion Service") / [The Complete Faculty Placement Suite.](https://facultyjobtools.com/products/the-complete-faculty-placement-suite "The Complete Faculty Placement Suite")
+
+Dr. Dani Babb founded Faculty Job Tools to help educators navigate the academic hiring process with clarity, confidence, and results. Since 2003, I’ve worked with tens of thousands of professors and aspiring instructors to land meaningful teaching positions across higher education.
+
+As a professor, doctoral mentor, and author of multiple editions of Make Money Teaching Online, I bring decades of firsthand experience on both sides of the hiring process. I regularly interview deans, department chairs, and hiring managers to learn exactly what they’re looking for—insights I share directly with every client I work with.
+
+Dr. Dani Babb also leads a community of educators in the free [Online Faculty Jobs Networking Group on Facebook](https://www.facebook.com/groups/onlinefaculty "Online Faculty Forum"), where members post job openings, share advice, and support one another through every step of the academic job search.
+
+Dr. Dani Babb remains personally involved in every part of Faculty Job Tools because I care deeply about helping educators find opportunities that fit their expertise and passion. My goal is to make the process straightforward, transparent, and genuinely supportive—for every faculty member who’s ready for their next chapter.
+
+---
+
+## Page 3: CVs Done Right: The Original Dr. Dani Babb’s 2025 DIY Faculty CV Tips – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/cvs-done-right-the-original-dr-dani-babb-s-2025-diy-faculty-cv-tips
 Date: 2026-02-03
 Description: Stop using outdated CV templates! Get Dr. Dani Babb’s 2025 faculty CV tips: ditch bullet points, clean up formatting, and write a results-driven narrative that hiring deans want.
@@ -296,9 +564,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 3: 
-      The Evolution of CV Writing for Online Adjunct Faculty: What You Need 
- – Faculty Job Tools
+## Page 4: The Evolution of CV Writing for Online Adjunct Faculty: What You Need – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/the-evolution-of-cv-writing-for-online-adjunct-faculty-what-you-need-to-know-in-2025-part-1
 Date: 2026-02-03
 Description: Boost your online adjunct job search with Faculty Job Tools by Dr. Dani Babb. With 20+ years of expertise, we craft tailored CVs, offer insider hiring advice, and provide invaluable job leads and application services. Visit Faculty Job Tools to get hired faster and stand out in the competitive online education market.
@@ -370,9 +636,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 4: 
-      You Got Assigned a Canned Course to Teach. Now What?!?!
- – Faculty Job Tools
+## Page 5: You Got Assigned a Canned Course to Teach. Now What?!?! – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/you-got-assigned-a-canned-course-to-teach-now-what
 Date: 2026-02-03
 Description: Discover strategies for teaching canned courses. Modify, personalize, engage! Here are tips for teaching pre-developed courses effectively.
@@ -419,9 +683,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 5: 
-      What's Different In The Online Teaching Job Market Today Than 5 Years 
- – Faculty Job Tools
+## Page 6: What's Different In The Online Teaching Job Market Today Than 5 Years – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/whats-different-in-the-online-teaching-job-market-today-than-5-years-ago
 Date: 2026-02-03
 Description: The online teaching job market has become highly competitive with fewer positions available. Employers prioritize diversity, equity, and inclusion. Flexibility is decreasing due to the rise of hybrid courses. A strong CV is essential. Applicants must be persistent in their job search. We can help you with this.
@@ -470,9 +732,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 6: 
-      4 Ways to Empower Academics in their Quest for a Job: Nurturing Succes
- – Faculty Job Tools
+## Page 7: 4 Ways to Empower Academics in their Quest for a Job: Nurturing Succes – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/4-ways-to-empower-academics-in-their-quest-for-a-job-nurturing-success-with-support-and-positivity
 Date: 2026-02-03
 Description: Online Teaching Jobs can be difficult to get. We need to support one another and empower friends and family in their search to become an online professor! Help those you care for navigate the challenges and be a positive force for their quest for a fulfilling career.
@@ -509,9 +769,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 7: 
-      How to Get Your First Online Teaching Job with a Masters Degree and Li
- – Faculty Job Tools
+## Page 8: How to Get Your First Online Teaching Job with a Masters Degree and Li – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/how-to-get-your-first-online-teaching-job-with-a-masters-degree-and-little-to-no-experience
 Date: 2026-02-03
 Description: Practical information to become an online professor or get work as an online faculty member with a masters degree. Learn strategies to get your first job in online higher education and start your rewarding career in online education today.
@@ -556,9 +814,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 8: 
-      From Teaching to Leading: How to Transition into Academic Administrati
- – Faculty Job Tools
+## Page 9: From Teaching to Leading: How to Transition into Academic Administrati – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/from-teaching-to-leading-how-to-transition-into-academic-administration-the-right-way
 Date: 2026-02-03
 Description: Learn how to transition from faculty to academic administration with strategic CV rewriting, leadership positioning, and targeted applications. Expert guidance for department chair, program director, and dean roles.
@@ -756,9 +1012,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 9: 
-      What to Expect in a Faculty Job Interview
- – Faculty Job Tools
+## Page 10: What to Expect in a Faculty Job Interview – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/what-to-expect-in-a-faculty-job-interview
 Date: 2026-02-03
 Description: What happens in a faculty job interview? Learn how to prepare, what questions to expect, and how to impress search committees.
@@ -874,9 +1128,7 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 10: 
-      How to Write a Cover Letter That Actually Lands Faculty Interviews
- – Faculty Job Tools
+## Page 11: How to Write a Cover Letter That Actually Lands Faculty Interviews – Faculty Job Tools
 URL: https://facultyjobtools.com/blogs/news/how-to-write-a-cover-letter-that-actually-lands-faculty-interviews
 Date: 2026-02-03
 Description: A strong faculty cover letter can make or break your application. Learn how to write an academic cover letter that gets you more faculty interviews.
@@ -1006,13 +1258,11 @@ Dr. Dani Babb remains personally involved in every part of Faculty Job Tools bec
 
 ---
 
-## Page 11: 
-      Academic Resume - Curriculum Vitae
- – Faculty Job Tools
+## Page 12: Academic Resume - Curriculum Vitae – Faculty Job Tools
 URL: https://facultyjobtools.com/products/academic-resume-curriculum-vitae
 Description: If you’re applying for faculty positions, your CV isn’t optional — it’s expected. But the way strong academic CVs are written has changed dramatically. At Faculty Job Tools, our CVs are completely different from anything Dr. Dani Babb has written before. This new process is shaped by years of experience and real-time i
 
-Services for Professors
+Faculty Job Tools
 
 # Academic Resume - Curriculum Vitae
 
@@ -1033,14 +1283,6 @@ Your CV will be:
 Each CV is written collaboratively through an iterative process between you and our team, with direct involvement from Dr. Babb, author of the first two Make Money Teaching Online books — the original guides to breaking into higher education teaching. We also include a carefully written teaching philosophy statement that can stand alone for uploads or be integrated into your CV.
 
 There’s no one-size-fits-all academic CV anymore. Ours are built from real-world research, feedback from hiring leaders, and decades of proven results — helping faculty present themselves authentically, professionally, and powerfully in today’s higher education marketplace.
-
-Regular price
-$395.00 USD
-
-Regular price~~~~Sale price
-$395.00 USD
-
-Unit price/ per
 
 Sale
 
@@ -1067,90 +1309,7 @@ Buy with
 
 ---
 
-## Page 12: 
-      Team Members
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/team-members
-
-## Meet The Team
-
-### Dani Babb, Ph.D
-
-Leader of this Awesome Group
-
-[Read more](https://facultyjobtools.com/pages/dr-dani-babb-phd)
-
-### Kim Gilbert, MS
-
-Faculty Support Royalty
-
-[Read more](https://facultyjobtools.com/pages/kim-gilbert)
-
-### Nicole Dhanraj, PhD
-
-Faculty Coach
-
-[Read more](https://facultyjobtools.com/pages/nicole-dhanraj-phd)
-
-### Keneisha Duncan
-
-Personal Branding Strategist
-
-[Read more](https://facultyjobtools.com/pages/keneisha-duncan)
-
----
-
-## Page 13: 
-      Kim Gilbert, MS
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/kim-gilbert
-Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
-
-# Kim Gilbert, MS
-
-Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal.
-
-She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education in 2006 through face-to-face and ICN delivery models. In 2012 she began teaching psychology courses online and continues to do so today.
-
-Using her finely honed organization skills and desire to help others become active in the online teaching world, she has earned the title of Faculty Support Royalty. She will help you complete applications and get your name, education, and skills into the application pipeline. She also leads a team of highly skilled job agents!
-
-[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
-
----
-
-## Page 14: 
-      Tusculum University
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/tusculum-university
-Description: I give Dr. Babb and her team at Doctorally my highest recommendation!I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. 
-
-# Tusculum University
-
-I give Dr. Babb and her team at Doctorally my highest recommendation!
-
-I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. Our dean moved on and I was asked to step in and save our upcoming semester. I had to find highly qualified and credentialled adjuncts to replace the professors we let go, and we had to develop new curricula for all the courses our former professors taught. We already had students enrolled in more than 20 online courses which now had no professors or curriculum.
-
-I contacted Dr. Babb knowing her work and we had a team of adjuncts in place exactly on time. She and her team worked tirelessly to meet the deadline. Our semester has gone very smoothly, and the student response to our new adjuncts and courses has been very positive.
-
-Dr. Babb and her team not only provided a great product but were exceptionally easy to work with. Email responses were typically within minutes, and pricing was very reasonable.
-
-Please feel free to contact me with any further questions.
-
-Sincerely,
-
-Dr. Kevin M. Hill
-
-Interim Dean of the College of Business
-
-Tusculum University
-
-[Return to Course Builds > Babb Education](https://facultyjobtools.com/pages/course-builds)
-
----
-
-## Page 15: 
-      Contact Us
- – Faculty Job Tools
+## Page 13: Contact Us – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/contact
 
 # Contact Us
@@ -1170,9 +1329,67 @@ Send
 
 ---
 
-## Page 16: 
-      Dissertation Prep
- – Faculty Job Tools
+## Page 14: Keneisha Duncan – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/keneisha-duncan
+Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
+
+# Keneisha Duncan
+
+As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique strengths, skills, and expertise.
+
+Keneisha understands the power of LinkedIn as a platform for professional networking, employment opportunities, and generating leads, therefore she works closely with her clients to understand their goals and objectives, and then develops customized strategies to optimize their LinkedIn profiles to attract the right people.
+
+Her approach to personal branding on LinkedIn is strategic and results-driven. One of her key strengths is her ability to help her clients build authentic and genuine connections on LinkedIn. She provides valuable insights on how to effectively network, engage with connections, and leverage LinkedIn groups and content creation to establish thought leadership in their industry. This is incredibly helpful for online faculty looking to get work.
+
+Keneisha's expertise in personal branding on LinkedIn has helped numerous individuals and business owners achieve their professional goals. Her clients have reported increased visibility, improved engagement, and successful outcomes such as job offers, business partnerships, and increased leads.
+
+With her keen eye for detail, strategic approach, and in-depth understanding of LinkedIn, Keneisha empowers individuals to establish a powerful LinkedIn presence that opens doors to new opportunities in higher education.
+
+[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
+
+---
+
+## Page 15: Dr. Dani Babb, PhD: The Original Professor Job Specialist – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/dr-dani-babb-phd
+Description: Meet Dr. Dani Babb, PhD—the original pioneer and first-to-market professor job specialist. Discover her official new home at Faculty Job Tools for expert academic career coaching and placement.
+
+# Dr. Dani Babb, PhD: The Original Professor Job Specialist
+
+Through Faculty Job Tools, Dr. Dani Babb offers / [Academic Resume (CV) Services](https://facultyjobtools.com/products/academic-cover-letter "Academic Cover Letter") / [Custom Job Search](https://facultyjobtools.com/products/custom-job-search "Custom Job Search") / [LinkedIn Marketing Services](https://facultyjobtools.com/products/linkedin-marketing-services "LinkedIn Marketing Services") / [Online Teaching Email Leads](https://facultyjobtools.com/products/online-teaching-email-leads "Online Teaching Email Leads") / [Teaching Application Completion Service](https://facultyjobtools.com/products/teaching-application-completion-service "Teaching Application Completion Service") / [The Complete Faculty Placement Suite.](https://facultyjobtools.com/products/the-complete-faculty-placement-suite "The Complete Faculty Placement Suite")
+
+Dr. Dani Babb founded Faculty Job Tools to help educators navigate the academic hiring process with clarity, confidence, and results. Since 2003, I’ve worked with tens of thousands of professors and aspiring instructors to land meaningful teaching positions across higher education.
+
+As a professor, doctoral mentor, and author of multiple editions of Make Money Teaching Online, I bring decades of firsthand experience on both sides of the hiring process. I regularly interview deans, department chairs, and hiring managers to learn exactly what they’re looking for—insights I share directly with every client I work with.
+
+Dr. Dani Babb also leads a community of educators in the free [Online Faculty Jobs Networking Group on Facebook](https://www.facebook.com/groups/onlinefaculty "Online Faculty Forum"), where members post job openings, share advice, and support one another through every step of the academic job search.
+
+Dr. Dani Babb remains personally involved in every part of Faculty Job Tools because I care deeply about helping educators find opportunities that fit their expertise and passion. My goal is to make the process straightforward, transparent, and genuinely supportive—for every faculty member who’s ready for their next chapter.
+
+[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
+
+---
+
+## Page 16: About Us – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/about-us
+Description: Faculty Job Tools exists to make the academic job search process less confusing, less stressful, and far more effective. The company helps professors, adjuncts, and aspiring educators find the right teaching positions through expert job application services, customized job leads, and practical guidance built on real-wo
+
+# About Us
+
+Faculty Job Tools exists to make the academic job search process less confusing, less stressful, and far more effective. The company helps professors, adjuncts, and aspiring educators find the right teaching positions through expert job application services, customized job leads, and practical guidance built on real-world academic experience.
+
+Founded and led by Dr. Dani Babb, Faculty Job Tools has supported tens of thousands of faculty members since 2003. Drawing on decades of experience in higher education and as the author of the Make Money Teaching Online book series, Dr. Babb created Faculty Job Tools to give educators the same kind of personalized, strategic support that hiring committees use to make decisions.
+
+The team understands how higher education hiring really works because they’ve lived it. Each member has reviewed applications, chaired searches, and taught in both classroom and online environments. To stay ahead of hiring trends, Dr. Babb regularly interviews deans, department chairs, and hiring managers to understand what they look for when selecting new faculty. That insight directly informs every service Faculty Job Tools provides.
+
+Many institutions also turn to Dani Babb when seeking qualified, experienced instructors. This dual perspective—supporting both job seekers and hiring leaders—gives clients a genuine advantage in the competitive academic marketplace.
+
+Faculty Job Tools offers a range of services including faculty CV and cover letter writing, academic branding, job application support, custom job leads, and interview preparation. The company also hosts a free online faculty community where educators exchange job postings, advice, and support.
+
+Faculty Job Tools remains the only faculty job organization founded and operated by Dr. Dani Babb. Clients work directly with Dr. Babb and her experienced team, ensuring an authentic, personalized approach that reflects her decades of proven success helping educators achieve their next career goal.
+
+---
+
+## Page 17: Dissertation Prep – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/dissertation-prep
 Description: If you are a doctoral student working through your dissertation or considering a doctoral program, reach out to us for coaching, mentoring and editing on our site Dissertation Prep! Go to Dissertation Prep!
 
@@ -1184,9 +1401,7 @@ Description: If you are a doctoral student working through your dissertation or 
 
 ---
 
-## Page 17: 
-      Terms and Conditions
- – Faculty Job Tools
+## Page 18: Terms and Conditions – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/terms-and-conditions
 Description: Services for Professors (hereinafter “Company”) and its parent company Doctoraly provides various services (hereinafter “Services”) through its website (hereinafter “Website”) at dissertationprep.com, babbeducation.com or another domain, and all services provided are governed by the terms specified herein (hereinafter 
 
@@ -1264,191 +1479,56 @@ All disputes between the Parties arising from or relating to the Services and th
 
 ---
 
-## Page 18: 
-      Keneisha Duncan
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/keneisha-duncan
-Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
+## Page 19: Nicole Dhanraj, PhD – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/nicole-dhanraj-phd
+Description: Nicole Dhanraj, PhD, brings more than 25 years of experience in higher education to her role as a faculty mentor and coach with Faculty Job Tools. Having served as a professor, instructional designer, and academic leader, she combines deep institutional knowledge with a genuine passion for helping fellow educators succ
 
-# Keneisha Duncan
+# Nicole Dhanraj, PhD
 
-As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique strengths, skills, and expertise.
+Nicole Dhanraj, PhD, brings more than 25 years of experience in higher education to her role as a faculty mentor and coach with Faculty Job Tools. Having served as a professor, instructional designer, and academic leader, she combines deep institutional knowledge with a genuine passion for helping fellow educators succeed. Dr. Dhanraj understands the nuances of the faculty hiring process—from crafting competitive CVs and cover letters to navigating interviews and campus culture—and she uses that insight to guide candidates toward confident, authentic presentations of their professional strengths.
 
-Keneisha understands the power of LinkedIn as a platform for professional networking, employment opportunities, and generating leads, therefore she works closely with her clients to understand their goals and objectives, and then develops customized strategies to optimize their LinkedIn profiles to attract the right people.
-
-Her approach to personal branding on LinkedIn is strategic and results-driven. One of her key strengths is her ability to help her clients build authentic and genuine connections on LinkedIn. She provides valuable insights on how to effectively network, engage with connections, and leverage LinkedIn groups and content creation to establish thought leadership in their industry. This is incredibly helpful for online faculty looking to get work.
-
-Keneisha's expertise in personal branding on LinkedIn has helped numerous individuals and business owners achieve their professional goals. Her clients have reported increased visibility, improved engagement, and successful outcomes such as job offers, business partnerships, and increased leads.
-
-With her keen eye for detail, strategic approach, and in-depth understanding of LinkedIn, Keneisha empowers individuals to establish a powerful LinkedIn presence that opens doors to new opportunities in higher education.
+Known for her warm yet results-driven approach, Dr. Dhanraj provides individualized coaching to help faculty candidates shine in mock interviews, articulate their teaching philosophies, and align their experiences with institutional missions. She draws on her decades of academic service to model professionalism, resilience, and self-assurance, helping clients see themselves as the experts they are. Whether mentoring aspiring adjuncts or preparing seasoned educators for leadership roles, she empowers every client to move forward with clarity, purpose, and the confidence needed to achieve their goals.
 
 [_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
 
 ---
 
-## Page 19: 
-      Dr. Dani Babb, PhD: The Original Professor Job Specialist
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/dr-dani-babb-phd
-Description: Meet Dr. Dani Babb, PhD—the original pioneer and first-to-market professor job specialist. Discover her official new home at Faculty Job Tools for expert academic career coaching and placement.
+## Page 20: Team Members – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/team-members
 
-# Dr. Dani Babb, PhD: The Original Professor Job Specialist
+## Meet The Team
 
-Through Faculty Job Tools, Dr. Dani Babb offers / [Academic Resume (CV) Services](https://facultyjobtools.com/products/academic-cover-letter "Academic Cover Letter") / [Custom Job Search](https://facultyjobtools.com/products/custom-job-search "Custom Job Search") / [LinkedIn Marketing Services](https://facultyjobtools.com/products/linkedin-marketing-services "LinkedIn Marketing Services") / [Online Teaching Email Leads](https://facultyjobtools.com/products/online-teaching-email-leads "Online Teaching Email Leads") / [Teaching Application Completion Service](https://facultyjobtools.com/products/teaching-application-completion-service "Teaching Application Completion Service") / [The Complete Faculty Placement Suite.](https://facultyjobtools.com/products/the-complete-faculty-placement-suite "The Complete Faculty Placement Suite")
+### Dani Babb, Ph.D
 
-Dr. Dani Babb founded Faculty Job Tools to help educators navigate the academic hiring process with clarity, confidence, and results. Since 2003, I’ve worked with tens of thousands of professors and aspiring instructors to land meaningful teaching positions across higher education.
+Leader of this Awesome Group
 
-As a professor, doctoral mentor, and author of multiple editions of Make Money Teaching Online, I bring decades of firsthand experience on both sides of the hiring process. I regularly interview deans, department chairs, and hiring managers to learn exactly what they’re looking for—insights I share directly with every client I work with.
+[Read more](https://facultyjobtools.com/pages/dr-dani-babb-phd)
 
-Dr. Dani Babb also leads a community of educators in the free [Online Faculty Jobs Networking Group on Facebook](https://www.facebook.com/groups/onlinefaculty "Online Faculty Forum"), where members post job openings, share advice, and support one another through every step of the academic job search.
+### Kim Gilbert, MS
 
-Dr. Dani Babb remains personally involved in every part of Faculty Job Tools because I care deeply about helping educators find opportunities that fit their expertise and passion. My goal is to make the process straightforward, transparent, and genuinely supportive—for every faculty member who’s ready for their next chapter.
+Faculty Support Royalty
 
-[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
+[Read more](https://facultyjobtools.com/pages/kim-gilbert)
 
----
+### Nicole Dhanraj, PhD
 
-## Page 20: 
-      Course Builds
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/course-builds
-Description: We provide custom solutions for your courses. Come and see us at Babb Education. Go to Babb Education!
+Faculty Coach
 
-# Course Builds
+[Read more](https://facultyjobtools.com/pages/nicole-dhanraj-phd)
 
-## We provide custom solutions for your courses. Come and see us at Babb Education.
+### Keneisha Duncan
 
-[_Go to Babb Education!_](https://babbeducation.com/university-services/instructional-design-and-curriculum-development)
+Personal Branding Strategist
 
-## Trusted by Leading Educational Institutions
-
-From coast to coast our professional services are trusted by leading higher eductional institutions.
-
-## I give Dr. Babb and her team my highest recommendation!
-
-I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester.
-
-[Read more...](https://facultyjobtools.com/pages/tusculum-university)
+[Read more](https://facultyjobtools.com/pages/keneisha-duncan)
 
 ---
 
-## Page 21: 
-      LinkedIn Services for Professors
- – Faculty Job Tools
-URL: https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service
-Description: Option 1: LinkedIn Profile Creation &amp; Optimization – $450 Perfect for those who want to create or upgrade their professional academic presence. Includes: Initial consultation to discuss goals Full profile creation (using provided email/username) and business-style formatting Addition of professional headshot Descri
-
-Services for Professors
-
-# LinkedIn Services for Professors
-
-## Option 1: LinkedIn Profile Creation & Optimization – $450
-
-Perfect for those who want to create or upgrade their professional academic presence.
-
-Includes:
-
-- Initial consultation to discuss goals
-- Full profile creation (using provided email/username) and business-style formatting
-- Addition of professional headshot
-- Descriptive, optimized headline that clearly states what you do, who you help, and that you’re open to work
-- Personalized biography crafted around your teaching and leadership experience
-- Complete experience section based on your CV, including detailed descriptions
-- Endorsement display and outreach for new skill endorsements
-- Identification of your top three skills to remain visible on your profile
-- Collection of recommendations or testimonials
-- Connection with 30 relevant professional profiles from your network
-
-## Option 2: LinkedIn Marketing Lite – $999
-
-Designed for educators ready to go beyond setup and start strategic networking.
-
-Includes:
-
-- Initial consultation and goal planning
-- LinkedIn Profile Creation & Optimization (included)
-- Target audience development
-- Custom outreach scripts (connection, follow-up, relationship-building messages, and InMail templates)
-- Job tracker template creation
-- Email list-building spreadsheet template
-
-## Option 3: LinkedIn Marketing Services – $2,200 Monthly
-
-The full partnership for continuous visibility and relationship-building in higher education.
-
-Includes:
-
-- Initial consultation and strategy development
-- Target audience research and segmentation
-- Customized LinkedIn messaging scripts
-- Daily outreach and lead generation (Monday–Friday)
-- Page engagement and relationship-building (likes, comments, replies)
-- Weekly content creation with branded graphics and post descriptions
-- Daily job tracker and marketing report updates
-- Daily email list building and management
-
-Whether you’re looking to make a stronger first impression, connect with hiring deans, or build long-term professional visibility, our LinkedIn services are designed to help you grow authentically and strategically in the academic world.
-
-Regular price
-$450.00 USD
-
-Regular price~~~~Sale price
-$450.00 USD
-
-Unit price/ per
-
-Sale
-
-Sold out
-
-Options
-
-LinkedIn Profile Creation & Optimization Service
-
-LinkedIn Marketing Lite
-
-LinkedIn Marketing Services Monthly
-
-Quantity
-(0 in cart)Decrease quantity for LinkedIn Services for ProfessorsIncrease quantity for LinkedIn Services for Professors
-
-Add to cart
-
-Buy with
-
-[More payment options](https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service#) This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
-
----
-
-## Page 22: 
-      About Us
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/about-us
-Description: Faculty Job Tools exists to make the academic job search process less confusing, less stressful, and far more effective. The company helps professors, adjuncts, and aspiring educators find the right teaching positions through expert job application services, customized job leads, and practical guidance built on real-wo
-
-# About Us
-
-Faculty Job Tools exists to make the academic job search process less confusing, less stressful, and far more effective. The company helps professors, adjuncts, and aspiring educators find the right teaching positions through expert job application services, customized job leads, and practical guidance built on real-world academic experience.
-
-Founded and led by Dr. Dani Babb, Faculty Job Tools has supported tens of thousands of faculty members since 2003. Drawing on decades of experience in higher education and as the author of the Make Money Teaching Online book series, Dr. Babb created Faculty Job Tools to give educators the same kind of personalized, strategic support that hiring committees use to make decisions.
-
-The team understands how higher education hiring really works because they’ve lived it. Each member has reviewed applications, chaired searches, and taught in both classroom and online environments. To stay ahead of hiring trends, Dr. Babb regularly interviews deans, department chairs, and hiring managers to understand what they look for when selecting new faculty. That insight directly informs every service Faculty Job Tools provides.
-
-Many institutions also turn to Dani Babb when seeking qualified, experienced instructors. This dual perspective—supporting both job seekers and hiring leaders—gives clients a genuine advantage in the competitive academic marketplace.
-
-Faculty Job Tools offers a range of services including faculty CV and cover letter writing, academic branding, job application support, custom job leads, and interview preparation. The company also hosts a free online faculty community where educators exchange job postings, advice, and support.
-
-Faculty Job Tools remains the only faculty job organization founded and operated by Dr. Dani Babb. Clients work directly with Dr. Babb and her experienced team, ensuring an authentic, personalized approach that reflects her decades of proven success helping educators achieve their next career goal.
-
----
-
-## Page 23: 
-      Academic Cover Letter
- – Faculty Job Tools
+## Page 21: Academic Cover Letter – Faculty Job Tools
 URL: https://facultyjobtools.com/products/academic-cover-letter
 Description: If you are applying to academic jobs, you need an academic resume (a CV) and an academic cover letter! Your cover letter is your first impression — and in higher education, that first impression matters. It’s where your voice, experience, and teaching philosophy come together to show hiring committees why you belong on
 
-Services for Professors
+Faculty Job Tools
 
 # Academic Cover Letter
 
@@ -1461,14 +1541,6 @@ At Faculty Job Tools, your cover letter is personally written by Dr. Dani Babb, 
 Each letter is customized to highlight your strengths, align with your discipline, and speak directly to what hiring deans and department chairs are looking for. Our process is continuously refined through direct conversations with academic hiring leaders, ensuring your application reflects the latest expectations in higher ed.
 
 You’ll receive a polished, persuasive cover letter that captures who you are as an educator — helping you stand out, get noticed, and get hired.
-
-Regular price
-$69.00 USD
-
-Regular price~~~~Sale price
-$69.00 USD
-
-Unit price/ per
 
 Sale
 
@@ -1495,25 +1567,23 @@ Buy with
 
 ---
 
-## Page 24: 
-      Nicole Dhanraj, PhD
- – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/nicole-dhanraj-phd
-Description: Nicole Dhanraj, PhD, brings more than 25 years of experience in higher education to her role as a faculty mentor and coach with Faculty Job Tools. Having served as a professor, instructional designer, and academic leader, she combines deep institutional knowledge with a genuine passion for helping fellow educators succ
+## Page 22: Kim Gilbert, MS – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/kim-gilbert
+Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
 
-# Nicole Dhanraj, PhD
+# Kim Gilbert, MS
 
-Nicole Dhanraj, PhD, brings more than 25 years of experience in higher education to her role as a faculty mentor and coach with Faculty Job Tools. Having served as a professor, instructional designer, and academic leader, she combines deep institutional knowledge with a genuine passion for helping fellow educators succeed. Dr. Dhanraj understands the nuances of the faculty hiring process—from crafting competitive CVs and cover letters to navigating interviews and campus culture—and she uses that insight to guide candidates toward confident, authentic presentations of their professional strengths.
+Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal.
 
-Known for her warm yet results-driven approach, Dr. Dhanraj provides individualized coaching to help faculty candidates shine in mock interviews, articulate their teaching philosophies, and align their experiences with institutional missions. She draws on her decades of academic service to model professionalism, resilience, and self-assurance, helping clients see themselves as the experts they are. Whether mentoring aspiring adjuncts or preparing seasoned educators for leadership roles, she empowers every client to move forward with clarity, purpose, and the confidence needed to achieve their goals.
+She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education in 2006 through face-to-face and ICN delivery models. In 2012 she began teaching psychology courses online and continues to do so today.
+
+Using her finely honed organization skills and desire to help others become active in the online teaching world, she has earned the title of Faculty Support Royalty. She will help you complete applications and get your name, education, and skills into the application pipeline. She also leads a team of highly skilled job agents!
 
 [_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
 
 ---
 
-## Page 25: 
-      Books
- – Faculty Job Tools
+## Page 23: Books – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/books
 Description: Recommended books from Faculty Job Tools:Hover over image for more information.  
 
@@ -1590,6 +1660,144 @@ View on](https://www.amazon.com/dp/B0CFZ862ZC)
 From the co-author of Make Money Teaching Online, Dr. Dani Babb releases the third edition of the book that helped thousands of instructors get started as an online professor.
 
 [View on](https://www.amazon.com/dp/B0CFZBZF2J)
+
+---
+
+## Page 24: Course Builds – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/course-builds
+Description: We provide custom solutions for your courses. Come and see us at Babb Education. Go to Babb Education!
+
+# Course Builds
+
+## We provide custom solutions for your courses. Come and see us at Babb Education.
+
+[_Go to Babb Education!_](https://babbeducation.com/university-services/instructional-design-and-curriculum-development)
+
+## Trusted by Leading Educational Institutions
+
+From coast to coast our professional services are trusted by leading higher eductional institutions.
+
+## I give Dr. Babb and her team my highest recommendation!
+
+I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester.
+
+[Read more...](https://facultyjobtools.com/pages/tusculum-university)
+
+---
+
+## Page 25: LinkedIn Services for Professors – Faculty Job Tools
+URL: https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service
+Description: Option 1: LinkedIn Profile Creation &amp; Optimization – $450 Perfect for those who want to create or upgrade their professional academic presence. Includes: Initial consultation to discuss goals Full profile creation (using provided email/username) and business-style formatting Addition of professional headshot Descri
+
+Faculty Job Tools
+
+# LinkedIn Services for Professors
+
+## Option 1: LinkedIn Profile Creation & Optimization – $450
+
+Perfect for those who want to create or upgrade their professional academic presence.
+
+Includes:
+
+- Initial consultation to discuss goals
+- Full profile creation (using provided email/username) and business-style formatting
+- Addition of professional headshot
+- Descriptive, optimized headline that clearly states what you do, who you help, and that you’re open to work
+- Personalized biography crafted around your teaching and leadership experience
+- Complete experience section based on your CV, including detailed descriptions
+- Endorsement display and outreach for new skill endorsements
+- Identification of your top three skills to remain visible on your profile
+- Collection of recommendations or testimonials
+- Connection with 30 relevant professional profiles from your network
+
+## Option 2: LinkedIn Marketing Lite – $999
+
+Designed for educators ready to go beyond setup and start strategic networking.
+
+Includes:
+
+- Initial consultation and goal planning
+- LinkedIn Profile Creation & Optimization (included)
+- Target audience development
+- Custom outreach scripts (connection, follow-up, relationship-building messages, and InMail templates)
+- Job tracker template creation
+- Email list-building spreadsheet template
+
+## Option 3: LinkedIn Marketing Services – $2,200 Monthly
+
+The full partnership for continuous visibility and relationship-building in higher education.
+
+Includes:
+
+- Initial consultation and strategy development
+- Target audience research and segmentation
+- Customized LinkedIn messaging scripts
+- Daily outreach and lead generation (Monday–Friday)
+- Page engagement and relationship-building (likes, comments, replies)
+- Weekly content creation with branded graphics and post descriptions
+- Daily job tracker and marketing report updates
+- Daily email list building and management
+
+Whether you’re looking to make a stronger first impression, connect with hiring deans, or build long-term professional visibility, our LinkedIn services are designed to help you grow authentically and strategically in the academic world.
+
+Sale
+
+Sold out
+
+4 interest-free installments, or from $40.62/mo with
+
+Check your purchasing power
+Your purchasing power is
+
+Log in with Shop
+
+.
+See plans
+
+Options
+
+LinkedIn Profile Creation & Optimization Service
+
+LinkedIn Marketing Lite
+
+LinkedIn Marketing Services Monthly
+
+Quantity
+(0 in cart)Decrease quantity for LinkedIn Services for ProfessorsIncrease quantity for LinkedIn Services for Professors
+
+Add to cart
+
+Buy with
+
+[More payment options](https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service#) This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
+---
+
+## Page 26: Tusculum University – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/tusculum-university
+Description: I give Dr. Babb and her team at Doctorally my highest recommendation!I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. 
+
+# Tusculum University
+
+I give Dr. Babb and her team at Doctorally my highest recommendation!
+
+I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. Our dean moved on and I was asked to step in and save our upcoming semester. I had to find highly qualified and credentialled adjuncts to replace the professors we let go, and we had to develop new curricula for all the courses our former professors taught. We already had students enrolled in more than 20 online courses which now had no professors or curriculum.
+
+I contacted Dr. Babb knowing her work and we had a team of adjuncts in place exactly on time. She and her team worked tirelessly to meet the deadline. Our semester has gone very smoothly, and the student response to our new adjuncts and courses has been very positive.
+
+Dr. Babb and her team not only provided a great product but were exceptionally easy to work with. Email responses were typically within minutes, and pricing was very reasonable.
+
+Please feel free to contact me with any further questions.
+
+Sincerely,
+
+Dr. Kevin M. Hill
+
+Interim Dean of the College of Business
+
+Tusculum University
+
+[Return to Course Builds > Babb Education](https://facultyjobtools.com/pages/course-builds)
 
 ---
 
