@@ -1,6 +1,6 @@
 # https://facultyjobtools.com - LLM Context Data
 
-Generated on: 2026-02-27T19:53:13.198Z
+Generated on: 2026-02-27T19:58:27.431Z
 Total pages: 26
 For full article content, see: llms-full.txt
 
@@ -86,19 +86,19 @@ URL: https://facultyjobtools.com/pages/contact
 
 ---
 
-## Page 14: Keneisha Duncan – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/keneisha-duncan
-Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
-
-# Keneisha Duncan
-
----
-
-## Page 15: Dr. Dani Babb, PhD: The Original Professor Job Specialist – Faculty Job Tools
+## Page 14: Dr. Dani Babb, PhD: The Original Professor Job Specialist – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/dr-dani-babb-phd
 Description: Meet Dr. Dani Babb, PhD—the original pioneer and first-to-market professor job specialist. Discover her official new home at Faculty Job Tools for expert academic career coaching and placement.
 
 # Dr. Dani Babb, PhD: The Original Professor Job Specialist
+
+---
+
+## Page 15: Keneisha Duncan – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/keneisha-duncan
+Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
+
+# Keneisha Duncan
 
 ---
 
@@ -146,19 +146,19 @@ Description: If you are applying to academic jobs, you need an academic resume (
 
 ---
 
-## Page 22: Kim Gilbert, MS – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/kim-gilbert
-Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
-
-# Kim Gilbert, MS
-
----
-
-## Page 23: Books – Faculty Job Tools
+## Page 22: Books – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/books
 Description: Recommended books from Faculty Job Tools:Hover over image for more information.  
 
 # Books
+
+---
+
+## Page 23: Kim Gilbert, MS – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/kim-gilbert
+Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
+
+# Kim Gilbert, MS
 
 ---
 
@@ -170,19 +170,19 @@ Description: We provide custom solutions for your courses. Come and see us at Ba
 
 ---
 
-## Page 25: LinkedIn Services for Professors – Faculty Job Tools
-URL: https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service
-Description: Option 1: LinkedIn Profile Creation &amp; Optimization – $450 Perfect for those who want to create or upgrade their professional academic presence. Includes: Initial consultation to discuss goals Full profile creation (using provided email/username) and business-style formatting Addition of professional headshot Descri
-
-# LinkedIn Services for Professors
-
----
-
-## Page 26: Tusculum University – Faculty Job Tools
+## Page 25: Tusculum University – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/tusculum-university
 Description: I give Dr. Babb and her team at Doctorally my highest recommendation!I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. 
 
 # Tusculum University
+
+---
+
+## Page 26: LinkedIn Services for Professors – Faculty Job Tools
+URL: https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service
+Description: Option 1: LinkedIn Profile Creation &amp; Optimization – $450 Perfect for those who want to create or upgrade their professional academic presence. Includes: Initial consultation to discuss goals Full profile creation (using provided email/username) and business-style formatting Addition of professional headshot Descri
+
+# LinkedIn Services for Professors
 
 ---
 

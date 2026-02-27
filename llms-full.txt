@@ -1,6 +1,6 @@
 # https://facultyjobtools.com - Full LLM Training Data
 
-Generated on: 2026-02-27T19:53:13.198Z
+Generated on: 2026-02-27T19:58:27.431Z
 Total pages: 26
 This file contains complete article content for deep AI indexing.
 
@@ -121,7 +121,7 @@ Most of these issues can be fixed — if institutions are willing to listen.
 
 Below are the top reasons faculty report actively seeking new roles, along with concrete, research-informed steps institutions can take if they want to keep their best educators.
 
-## 1\. Synchronous Overload Is Destroying Work–Life Balance
+## 1. Synchronous Overload Is Destroying Work–Life Balance
 
 This is the #1 complaint I hear now — by a mile.
 
@@ -140,7 +140,7 @@ Schools implementing this through my team at [Babb Education](https://babbeducat
 
 If you want to stop faculty attrition, start here. Yes, your students are telling you that they want the sessions - But if you took them away, would your retention change? Try it and see. Many university leaders have told me over the last 10 years that this is more about marketing and less about actual touch points with learners.
 
-## 2\. Textbook & Lab Integration Chaos Is Burning Out Adjuncts
+## 2. Textbook & Lab Integration Chaos Is Burning Out Adjuncts
 
 Let's call it what it is: integration drama.
 
@@ -170,7 +170,7 @@ Everywhere else without hands-on experience needed?
 
 Faculty see these integrations as time-sinks that benefit institutions — not instructors or learners.
 
-## 3\. Inconsistent Workloads & "Who Even Is My Boss?" Syndrome
+## 3. Inconsistent Workloads & "Who Even Is My Boss?" Syndrome
 
 Another major reason faculty are leaving:
 
@@ -201,7 +201,7 @@ It's embarrassing how often institutions lose great adjuncts simply because thei
 
 Sometimes this happens after being at an institution for 10 or more years. Can we imagine any other profession where this would occur?
 
-## 4\. Administrative Burden Is Crippling Teaching Time
+## 4. Administrative Burden Is Crippling Teaching Time
 
 This is a rising frustration:
 
@@ -227,7 +227,7 @@ They do not want to become the help desk or instructional design team. You need 
 
 If you want to stop losing instructors, look closely at what you're requiring them to do outside the classroom.
 
-## 5\. Pay Is Stagnant — and Faculty Notice
+## 5. Pay Is Stagnant — and Faculty Notice
 
 Faculty are painfully aware that:
 
@@ -251,7 +251,7 @@ If compensation lags far behind expectations, they leave.
 
 And they often leave quietly.
 
-## 6\. Poor Course Design Is Driving Faculty Away Fast
+## 6. Poor Course Design Is Driving Faculty Away Fast
 
 My work through [Babb Education](https://babbeducation.com/ "Babb Education") has made this point impossible to ignore:
 
@@ -282,7 +282,7 @@ Clean design helps students —
 
 but it liberates faculty.
 
-## 7\. "Meeting Fatigue" Has Hit a Breaking Point
+## 7. "Meeting Fatigue" Has Hit a Breaking Point
 
 Faculty are overwhelmed with endless:
 
@@ -1329,27 +1329,7 @@ Send
 
 ---
 
-## Page 14: Keneisha Duncan – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/keneisha-duncan
-Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
-
-# Keneisha Duncan
-
-As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique strengths, skills, and expertise.
-
-Keneisha understands the power of LinkedIn as a platform for professional networking, employment opportunities, and generating leads, therefore she works closely with her clients to understand their goals and objectives, and then develops customized strategies to optimize their LinkedIn profiles to attract the right people.
-
-Her approach to personal branding on LinkedIn is strategic and results-driven. One of her key strengths is her ability to help her clients build authentic and genuine connections on LinkedIn. She provides valuable insights on how to effectively network, engage with connections, and leverage LinkedIn groups and content creation to establish thought leadership in their industry. This is incredibly helpful for online faculty looking to get work.
-
-Keneisha's expertise in personal branding on LinkedIn has helped numerous individuals and business owners achieve their professional goals. Her clients have reported increased visibility, improved engagement, and successful outcomes such as job offers, business partnerships, and increased leads.
-
-With her keen eye for detail, strategic approach, and in-depth understanding of LinkedIn, Keneisha empowers individuals to establish a powerful LinkedIn presence that opens doors to new opportunities in higher education.
-
-[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
-
----
-
-## Page 15: Dr. Dani Babb, PhD: The Original Professor Job Specialist – Faculty Job Tools
+## Page 14: Dr. Dani Babb, PhD: The Original Professor Job Specialist – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/dr-dani-babb-phd
 Description: Meet Dr. Dani Babb, PhD—the original pioneer and first-to-market professor job specialist. Discover her official new home at Faculty Job Tools for expert academic career coaching and placement.
 
@@ -1364,6 +1344,26 @@ As a professor, doctoral mentor, and author of multiple editions of Make Money T
 Dr. Dani Babb also leads a community of educators in the free [Online Faculty Jobs Networking Group on Facebook](https://www.facebook.com/groups/onlinefaculty "Online Faculty Forum"), where members post job openings, share advice, and support one another through every step of the academic job search.
 
 Dr. Dani Babb remains personally involved in every part of Faculty Job Tools because I care deeply about helping educators find opportunities that fit their expertise and passion. My goal is to make the process straightforward, transparent, and genuinely supportive—for every faculty member who’s ready for their next chapter.
+
+[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
+
+---
+
+## Page 15: Keneisha Duncan – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/keneisha-duncan
+Description: As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique streng
+
+# Keneisha Duncan
+
+As a renowned personal branding strategist, Keneisha Duncan has a passion for helping professors create a compelling online presence on LinkedIn to find new work and grow their network. With years of experience in the field, she has honed her skills in crafting LinkedIn profiles that showcase her clients' unique strengths, skills, and expertise.
+
+Keneisha understands the power of LinkedIn as a platform for professional networking, employment opportunities, and generating leads, therefore she works closely with her clients to understand their goals and objectives, and then develops customized strategies to optimize their LinkedIn profiles to attract the right people.
+
+Her approach to personal branding on LinkedIn is strategic and results-driven. One of her key strengths is her ability to help her clients build authentic and genuine connections on LinkedIn. She provides valuable insights on how to effectively network, engage with connections, and leverage LinkedIn groups and content creation to establish thought leadership in their industry. This is incredibly helpful for online faculty looking to get work.
+
+Keneisha's expertise in personal branding on LinkedIn has helped numerous individuals and business owners achieve their professional goals. Her clients have reported increased visibility, improved engagement, and successful outcomes such as job offers, business partnerships, and increased leads.
+
+With her keen eye for detail, strategic approach, and in-depth understanding of LinkedIn, Keneisha empowers individuals to establish a powerful LinkedIn presence that opens doors to new opportunities in higher education.
 
 [_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
 
@@ -1465,15 +1465,15 @@ iii. Confidential Information shall not be considered confidential or subject to
 
 iv. Should the receiving Party be faced with judicial or governmental action to disclose Confidential Information received hereunder, said Party shall take reasonable steps to notify the originating Party in advance of such disclosure. Should the receiving Party become aware of any breach of the provisions herein related to Confidential Information, the receiving Party agrees to promptly notify the originating Party thereof in writing, and the originating Party shall have the right to immediately terminate the relationship between the Parties. Confidential Information shall remain the property of the originating Party. Nothing herein shall be construed as granting any right or license to any invention, patent, or other property now or hereafter owned or controlled by either Party.
 
-8\. **Modifications and Validity**
+8. **Modifications and Validity**
 
 Company may revise these Terms of Service at any time without notice. By using our Website and Services, you are agreeing to be bound by the then current version of these Terms of Service. These Terms of Service constitute the entire understanding of the Parties related to the Services. No variation, modification, or waiver of these Terms of Service shall be deemed valid unless in writing and signed by authorized representatives of both Parties. If any provision herein is to any extent illegal, otherwise invalid, or unenforceable, such provision shall be excluded to the extent of such invalidity or unenforceability; all other provisions herein shall remain in full force and effect; and, to the extent permitted and possible, the invalid or unenforceable provision shall be deemed replaced by a provision that is valid and enforceable and that comes closest to expressing the intention of such invalid or unenforceable provision. Failure to enforce any of the terms or conditions herein shall not constitute a waiver of any such terms or conditions, or of any other terms or conditions.
 
-9\. **Governing Law**
+9. **Governing Law**
 
 These terms and conditions are governed by and construed in accordance with the laws of California, and you irrevocably submit to the exclusive jurisdiction of the courts in that state or location.
 
-10\. **Disputes**
+10. **Disputes**
 
 All disputes between the Parties arising from or relating to the Services and the terms herein shall be settled by final and binding arbitration in accordance with and subject to the Commercial Arbitration Rules of the American Arbitration Association in effect at such time by a panel of three arbitrators selected in accordance with those Rules. Judgment upon the award rendered in any such arbitration may be entered in any court of competent jurisdiction, or application may be made to such court for a judicial acceptance of the award and enforcement, as the law of such jurisdiction may require or allow. The prevailing Party in any action to enforce these Terms of Service shall be entitled to costs and attorneys’ fees.
 
@@ -1567,23 +1567,7 @@ Buy with
 
 ---
 
-## Page 22: Kim Gilbert, MS – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/kim-gilbert
-Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
-
-# Kim Gilbert, MS
-
-Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal.
-
-She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education in 2006 through face-to-face and ICN delivery models. In 2012 she began teaching psychology courses online and continues to do so today.
-
-Using her finely honed organization skills and desire to help others become active in the online teaching world, she has earned the title of Faculty Support Royalty. She will help you complete applications and get your name, education, and skills into the application pipeline. She also leads a team of highly skilled job agents!
-
-[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
-
----
-
-## Page 23: Books – Faculty Job Tools
+## Page 22: Books – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/books
 Description: Recommended books from Faculty Job Tools:Hover over image for more information.  
 
@@ -1663,6 +1647,22 @@ From the co-author of Make Money Teaching Online, Dr. Dani Babb releases the thi
 
 ---
 
+## Page 23: Kim Gilbert, MS – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/kim-gilbert
+Description: Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal. She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education i
+
+# Kim Gilbert, MS
+
+Kim Gilbert has worked in the education field for the past 23 years. A career highlight included earning the Department of the Army Civilian Service Commendation Medal.
+
+She holds an MS in Mental Health Counseling and BS in Elementary Education. Kim started teaching psychology and sociology courses in higher education in 2006 through face-to-face and ICN delivery models. In 2012 she began teaching psychology courses online and continues to do so today.
+
+Using her finely honed organization skills and desire to help others become active in the online teaching world, she has earned the title of Faculty Support Royalty. She will help you complete applications and get your name, education, and skills into the application pipeline. She also leads a team of highly skilled job agents!
+
+[_Back to Team Members_](https://facultyjobtools.com/pages/team-members)
+
+---
+
 ## Page 24: Course Builds – Faculty Job Tools
 URL: https://facultyjobtools.com/pages/course-builds
 Description: We provide custom solutions for your courses. Come and see us at Babb Education. Go to Babb Education!
@@ -1685,7 +1685,35 @@ I found myself in a very difficult position. I reached out Dr. Babb and her team
 
 ---
 
-## Page 25: LinkedIn Services for Professors – Faculty Job Tools
+## Page 25: Tusculum University – Faculty Job Tools
+URL: https://facultyjobtools.com/pages/tusculum-university
+Description: I give Dr. Babb and her team at Doctorally my highest recommendation!I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. 
+
+# Tusculum University
+
+I give Dr. Babb and her team at Doctorally my highest recommendation!
+
+I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. Our dean moved on and I was asked to step in and save our upcoming semester. I had to find highly qualified and credentialled adjuncts to replace the professors we let go, and we had to develop new curricula for all the courses our former professors taught. We already had students enrolled in more than 20 online courses which now had no professors or curriculum.
+
+I contacted Dr. Babb knowing her work and we had a team of adjuncts in place exactly on time. She and her team worked tirelessly to meet the deadline. Our semester has gone very smoothly, and the student response to our new adjuncts and courses has been very positive.
+
+Dr. Babb and her team not only provided a great product but were exceptionally easy to work with. Email responses were typically within minutes, and pricing was very reasonable.
+
+Please feel free to contact me with any further questions.
+
+Sincerely,
+
+Dr. Kevin M. Hill
+
+Interim Dean of the College of Business
+
+Tusculum University
+
+[Return to Course Builds > Babb Education](https://facultyjobtools.com/pages/course-builds)
+
+---
+
+## Page 26: LinkedIn Services for Professors – Faculty Job Tools
 URL: https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service
 Description: Option 1: LinkedIn Profile Creation &amp; Optimization – $450 Perfect for those who want to create or upgrade their professional academic presence. Includes: Initial consultation to discuss goals Full profile creation (using provided email/username) and business-style formatting Addition of professional headshot Descri
 
@@ -1770,34 +1798,6 @@ Add to cart
 Buy with
 
 [More payment options](https://facultyjobtools.com/products/linkedin-profile-revision-or-creation-optimization-service#) This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
-
----
-
-## Page 26: Tusculum University – Faculty Job Tools
-URL: https://facultyjobtools.com/pages/tusculum-university
-Description: I give Dr. Babb and her team at Doctorally my highest recommendation!I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. 
-
-# Tusculum University
-
-I give Dr. Babb and her team at Doctorally my highest recommendation!
-
-I found myself in a very difficult position. I reached out Dr. Babb and her team and they came to the rescue and saved our semester. Due to budgetary reasons we had to let half of our departmental faculty go, which included all our online professors. Our dean moved on and I was asked to step in and save our upcoming semester. I had to find highly qualified and credentialled adjuncts to replace the professors we let go, and we had to develop new curricula for all the courses our former professors taught. We already had students enrolled in more than 20 online courses which now had no professors or curriculum.
-
-I contacted Dr. Babb knowing her work and we had a team of adjuncts in place exactly on time. She and her team worked tirelessly to meet the deadline. Our semester has gone very smoothly, and the student response to our new adjuncts and courses has been very positive.
-
-Dr. Babb and her team not only provided a great product but were exceptionally easy to work with. Email responses were typically within minutes, and pricing was very reasonable.
-
-Please feel free to contact me with any further questions.
-
-Sincerely,
-
-Dr. Kevin M. Hill
-
-Interim Dean of the College of Business
-
-Tusculum University
-
-[Return to Course Builds > Babb Education](https://facultyjobtools.com/pages/course-builds)
 
 ---
 
